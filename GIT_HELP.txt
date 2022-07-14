@@ -1,0 +1,67 @@
+GIT Commands
+
+ CMD 1: Moving with directories
+   
+Creating the Directoires
+C:\>cd D:\Users\manohar\web\console
+
+Creating the File inside the directory
+FirstGit -- >It will create the Folder FirstGit
+
+showing all the folders 
+DIR
+
+deleting the folder 
+
+rmdir SecondGit
+
+
+Git clone
+
+git clone <https://name-of-the-repository-link>
+
+ Git branch
+git branch <branch-name>
+
+Viewing branches
+git branch or git branch --list
+
+Deleting branches
+git branch -d <branch-name>
+
+
+Git checkout
+git checkout <name-of-your-branch>
+git checkout -b <name-of-your-branch>
+
+Git Status
+git status
+
+Git Add
+Git add <file>
+
+To add everything at once:
+Git add -A
+
+Test GIT1
+
+
+
+Git commit
+git commit -m "commit message"
+
+Git Push
+git push <remote> <branch-name>
+git push -u origin <branch_name>
+
+Git Pull
+git pull <remote>
+
+Git revert
+git log -- oneline:
+
+git revert 3321844
+shift + q to exit
+
+git merge <branch-name>
+
