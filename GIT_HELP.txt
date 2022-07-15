@@ -1,6 +1,9 @@
 GIT Commands
 
  CMD 1: Moving with directories
+
+--GIT CLONE---
+git cherry-pick
    
 Creating the Directoires
 C:\>cd D:\Users\manohar\web\console
